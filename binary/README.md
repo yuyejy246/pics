@@ -1,6 +1,14 @@
-Support me! Order [prints](http://prints.corkami.com/)
+Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
 
 ---
+
+# Basics of computing
+
+<a href="basics/hexadecimal.pdf"><img src="basics/hexadecimal.png" width="300" alt="hexadecimal"></a>
+<a href="basics/colors.pdf"><img src="basics/colors.png" width="300" alt="colors"></a>
+
+---
+
 # File formats
 ## Minimalists
 
@@ -91,4 +99,4 @@ Jneavat! N qnatrebhf pelcgbtencuvp bowrpg vf urnqvat lbhe jnl....
 <a href="CryptoModes.png"><img src="CryptoModes.png" width="200"></a>
 
 ---
-Support me! Order [prints](http://prints.corkami.com/)
+Support me: order [prints](http://prints.corkami.com/), check my [patreon](https://www.patreon.com/corkami).
